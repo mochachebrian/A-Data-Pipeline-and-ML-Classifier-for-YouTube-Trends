@@ -14,7 +14,11 @@ The project walks through:
 # Features
 
 ✅ Load YouTube dataset
+
 ✅ Run EDA (distributions, correlations, trends)
+
 ✅ Train and test ML model (Random Forest)
+
 ✅ Evaluate results (accuracy, classification report)
+
 ✅ Visualize feature importance
